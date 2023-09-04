@@ -17,5 +17,10 @@
         "word": ["become", "became", "become"],
         "translate": "становиться",
         "example": []
+    },
+    {
+        "word": ["begin", "began", "begun"],
+        "translate": "начинать",
+        "example": []
     }
 ]
