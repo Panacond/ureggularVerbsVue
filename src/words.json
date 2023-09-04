@@ -1,0 +1,21 @@
+[{
+        "word": ["be", "was", "been"],
+        "translate": "быть, находиться",
+        "example": ["It is funny", "It was funny"]
+    },
+    {
+        "word": ["bear", "bore", "born"],
+        "translate": "выносить, рождать ⭐⭐",
+        "example": []
+    },
+    {
+        "word": ["beat", "beat", "beaten"],
+        "translate": "бить, лупить",
+        "example": []
+    },
+    {
+        "word": ["become", "became", "become"],
+        "translate": "становиться",
+        "example": []
+    }
+]
