@@ -1,26 +1,175 @@
-[{
-        "word": ["be", "was", "been"],
-        "translate": "быть, находиться",
-        "example": ["It is funny", "It was funny"]
-    },
-    {
-        "word": ["bear", "bore", "born"],
-        "translate": "выносить, рождать ⭐⭐",
-        "example": []
-    },
-    {
-        "word": ["beat", "beat", "beaten"],
-        "translate": "бить, лупить",
-        "example": []
-    },
-    {
-        "word": ["become", "became", "become"],
-        "translate": "становиться",
-        "example": []
-    },
-    {
-        "word": ["begin", "began", "begun"],
-        "translate": "начинать",
-        "example": []
-    }
+[
+  {
+    "word": ["be [bi:]", "was [wɔːz]", "been [bi:n]"],
+    "translate": "быть, находиться",
+    "example": ["It is funny", "It was funny"]
+  },
+  {
+    "word": ["bear [beə]", "bore [bɔː]", "borne [bɔːn]"],
+    "translate": "выносить, рождать",
+    "example": [
+      "The road bears to the right - дорога идет влево",
+      "The road bore to the right"
+    ]
+  },
+  {
+    "word": ["beat [bi:t]", "beat [bi:t]", "beaten [bi:tn]"],
+    "translate": "бить, лупить",
+    "example": ["He beat egg - он взбил яйца"]
+  },
+  {
+    "word": ["become [bi’kʌm]", "became [bi’keɪm]", "become [bi’kʌm]"],
+    "translate": "становиться",
+    "example": ["I become thin - Я худею", "I became angry - Я злился"]
+  },
+  {
+    "word": ["begin [bi’gin]", "began [bi’gæn]", "begun [bi’gʌn]"],
+    "translate": "начинать",
+    "example": [
+      "Parents begin caring for their child - Родители начинают лечить ребенка",
+      "Parents began caring for their child"
+    ]
+  },
+  {
+    "word": ["bite [bait]", "bit [bit]", "bitten [bitn]"],
+    "translate": "кусать",
+    "example": [
+      "Suddenly, the dog jump and bite my leg.",
+      "Suddenly, the animal jumped and bit my hand."
+    ]
+  },
+  {
+    "word": ["blow [blou]", "blew [blu:]", "blown [bloun]"],
+    "translate": "дуть",
+    "example": ["It blow wond", "It blew wind"]
+  },
+  {
+    "word": ["break [breik]", "broke [brouk]", "broken [broukn]"],
+    "translate": "ломать, разрушать",
+    "example": [
+      "I break beams every day.",
+      "When  I was ten years old, I broke my arm."
+    ]
+  },
+  {
+    "word": ["bring [briŋ]", "brought [brɔːt]", "brought [brɔːt]"],
+    "translate": "привозить, приносить",
+    "example": ["You bring items", "You brought items"]
+  },
+  {
+    "word": [
+      "broadcast ['brɔːdka:st]",
+      "broadcast ['brɔːdka:st]",
+      "broadcast ['brɔːdka:st]"
+    ],
+    "translate": "транслировать",
+    "example": [
+      "NASA broadcast all the activities live - НАСА транслирует все мероприятия в прямом эфире"
+    ]
+  },
+  {
+    "word": ["build [bild]", "built [bilt]", "built [bilt]"],
+    "translate": "строить",
+    "example": ["You build house", "You built house"]
+  },
+  {
+    "word": ["bend", "bent", "bent"],
+    "translate": "сгибаться",
+    "example": ["He bends a branch", "He bent a branch"]
+  },
+  {
+    "word": ["burn [bɜːn]", "burnt [bɜːnt]", "burnt [bɜːnt]"],
+    "translate": "гореть, пылать, жечь",
+    "example": ["I burn a fire", "I burnt a fire"]
+  },
+  {
+    "word": ["bet", "bet", "bet"],
+    "translate": "биться об заклад",
+    "example": ["He bet with her about a horse"]
+  },
+  {
+    "word": ["bind", "bound", "bound"],
+    "translate": "привязывать",
+    "example": [
+      "The logs were bind together with ropes",
+      "The logs were bound together with ropes - бревна были связаны веревками"
+    ]
+  },
+  {
+    "word": ["bleed", "bled", "bled"],
+    "translate": "кровоточить",
+    "example": ["His wound is bleed - его рана кровоточит", "His wound is bled"]
+  },
+  {
+    "word": ["buy [bai]", "bought [bɔːt]", "bought [bɔːt]"],
+    "translate": "покупать",
+    "example": [
+      "My neighbor buys a bread once a week",
+      "My neighbor bought a new car last week"
+    ]
+  },
+  {
+    "word": ["catch [kætʃ]", "caught [kɔːt]", "caught [kɔːt]"],
+    "translate": "ловить, поймать, схватыват",
+    "example": [
+      "Fisherman catches a fish",
+      "The police caught all three of the bank robbers last week"
+    ]
+  },
+  {
+    "word": ["choose [tʃu:z]", "chose [tʃouz]", "chosen [tʃouzn]"],
+    "translate": "выбирать, избирать",
+    "example": [
+      "He chooses a seat facing the door",
+      "He chose a seat facing the door - он выбрал место лицом к двери"
+    ]
+  },
+  {
+    "word": ["cling", "clung", "clung"],
+    "translate": "цепляться, прилиплять",
+    "example": [
+      "She clings to Joe's arm",
+      "She clung to Joe's arm - Она вцепилась в руку Джо"
+    ]
+  },
+  {
+    "word": ["come [kʌm]", "came [keim]", "come [kʌm"],
+    "translate": "приходить",
+    "example": ["They come to a river", "They came to a river"]
+  },
+  {
+    "word": ["cost [kɔst]", "cost [kɔst]", "cost [kɔst]"],
+    "translate": "стоить",
+    "example": [
+      "It costs too much",
+      "It cost too much",
+      "How much does it cost?"
+    ]
+  },
+  {
+    "word": ["cut [kʌt]", "cut [kʌt]", "cut [kʌt]"],
+    "translate": "резать, стричь, рубить",
+    "example": ["She cuts bread", "She cut bread"]
+  },
+  {
+    "word": ["deal", "dealt", "dealt"],
+    "translate": "иметь дело",
+    "example": [
+      "Directors  deal in the company's shares - директора торгуют акциями компании",
+      "Directors  dealt in the company's shares"
+    ]
+  },
+  {
+    "word": ["dig [dig]", "dug [dʌg]", "dug [dʌg]"],
+    "translate": "копать, рыть",
+    "example": ["He digs a hole - Он копает яму", "He dug a hole"]
+  },
+  {
+    "word": ["do [du:]", "did [did]", "done done [dʌn]"],
+    "translate": "делать, выполнять",
+    "example": [
+      "First, we do exercise, and then we drink some water.",
+      "First, we did exercise, and then we drank some water."
+    ]
+  }
 ]
