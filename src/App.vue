@@ -7,6 +7,6 @@ import Back from './components/Back.vue'
 
 <template>
   <RowHead/>
-  <RowWord v-for="i in wordsJson" :word="i"/>
+  <RowWord v-for="(i, index) in wordsJson" :word="i" :index="index"/>
   <Back  :wordsJson="wordsJson"/>
 </template>

@@ -1,6 +1,6 @@
 <script>
 export default {
-    props: ['word'],
+    props: ['word', 'index'],
     computed: {
         showExamlpe() {
             if (this.word.example.length > 0)
@@ -15,6 +15,7 @@ export default {
 <template>
     <div :class="showExamlpe">
             <div>
+                <div>{{ index + 1 }}</div>
                 <div>{{word.word[0]}}</div>
                 <div>{{word.word[1]}}</div>
                 <div>{{word.word[2]}}</div>

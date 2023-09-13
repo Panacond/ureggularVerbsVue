@@ -171,5 +171,68 @@
       "First, we do exercise, and then we drink some water.",
       "First, we did exercise, and then we drank some water."
     ]
+  },
+  {
+    "word": ["draw [drɔː]", "drew [dru:]", "drawn [drɔːn]"],
+    "translate": "рисовать, тащить",
+    "example": ["He draws a picture", "He drew a picture"]
+  },
+  {
+    "word": ["dream [dri:m]", "dreamt [dremt]", "dreamt [dremt]"],
+    "translate": "мечтать, видеть, сны",
+    "example": [
+      "She dreams of going on vacation",
+      "She dreamed of going on vacation"
+    ]
+  },
+  {
+    "word": ["drink [driŋk]", "drank [dræŋk]", "drunk [drʌŋk]"],
+    "translate": "пить",
+    "example": ["We drink some water", "We drank some water"]
+  },
+  {
+    "word": ["drive [draiv]", "drove [drouv]", "driven [drivn]"],
+    "translate": "водить машину",
+    "example": [
+      "Helen drives to work.",
+      "Helen drove to work.",
+      "Did Helen drive to work? Yes, she did."
+    ]
+  },
+  {
+    "word": ["eat [i:t]", "ate [eit]", "eaten [i:th]"],
+    "translate": "кушать",
+    "example": [
+      "I eat dinner at six o'clock everyday",
+      "I ate dinner at six o'clock yesterday"
+    ]
+  },
+  {
+    "word": ["fall [fɔːl]", "fell [fel]", "felt [fɔːln]"],
+    "translate": "падать",
+    "example": [
+      "I fall off my bicycle because I amn't careful",
+      "I fell off my bicycle because I wasn't careful"
+    ]
+  },
+  {
+    "word": ["feed [fi:d]", "fed [fed]", "fed [fed]"],
+    "translate": "кормить",
+    "example": ["He feed the kitten", "He fed the kitten"]
+  },
+  {
+    "word": ["feel [fi:l]", "felt [felt]", "felt [felt]"],
+    "translate": "чувствовать",
+    "example": ["She feel victory", "She felt victory"]
+  },
+  {
+    "word": ["fight [fait]", "fought [fɔːt]", "fought [fɔːt]"],
+    "translate": "драться",
+    "example": ["They fight with dogs", "They fought with dogs"]
+  },
+  {
+    "word": ["find [faind]", "found [faund]", "found [faund]"],
+    "translate": "находить",
+    "example": ["He find treasure", "He found treasure"]
   }
 ]
