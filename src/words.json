@@ -233,6 +233,78 @@
   {
     "word": ["find [faind]", "found [faund]", "found [faund]"],
     "translate": "находить",
-    "example": ["He find treasure", "He found treasure"]
+    "example": ["He finds treasure", "He found treasure"]
+  },
+  {
+    "word": [" fly [flai] ", " flew [flu:] ", " flown [floun] "],
+    "translate": "летать",
+    "example": [
+      "He flies by plane every week.",
+      "The Wright brothers flew the first airplane in 1903."
+    ]
+  },
+  {
+    "word": [
+      " forbid [fə'bid] ",
+      " forbade [fə'beid] ",
+      " forbidden [fə'bidn] "
+    ],
+    "translate": "запрещать",
+    "example": ["He forbids doing this", "He forbade doing this"]
+  },
+  {
+    "word": [" forget [fə'get] ", " forgot [fə'gɔt] ", " forgotten [fə'gɔtn] "],
+    "translate": "забывать",
+    "example": [
+      "Unfortunately, I forget my phone number.",
+      "Unfortunately, I forgot to bring my money."
+    ]
+  },
+  {
+    "word": [
+      " forgive [fə'giv] ",
+      " forgave [fə'geiv] ",
+      " forgiven [fə'givn] "
+    ],
+    "translate": "прощать",
+    "example": ["She forgives him", "She forgave him"]
+  },
+  {
+    "word": [" freeze [fri:z] ", " froze [frouz] ", " frozen [frouzn] "],
+    "translate": "замораживать",
+    "example": ["The refrigerator freezes ice", "The refrigerator froze ice"]
+  },
+  {
+    "word": [" get [get] ", " got [gɔt] ", " got [gɔt] "],
+    "translate": "получать",
+    "example": ["Tom usually gets up at six", "He got up at eight"]
+  },
+  {
+    "word": [" give [giv] ", " gave [geiv] ", " given [givn] "],
+    "translate": "давать",
+    "example": ["He gives me a donut", "He gave me a donut"]
+  },
+  {
+    "word": [" go [gou] ", " went [went] ", " gone [gʌn] "],
+    "translate": " идти, ходить ",
+    "example": [
+      "They go to Italy on their summer holiday",
+      "They went to Italy on their last summer holiday"
+    ]
+  },
+  {
+  "word": [" grow [grou] ", " grew [gru:] ", " grown [groun] "],
+  "translate": "расти",
+  "example": ["The tree grows last year","The tree grew last year"]
+  },
+  {
+  "word": [" hang [hæŋ] ", " hung [hʌŋ] ", " hung [hʌŋ] "],
+  "translate": " висеть, вешать ",
+  "example": ["He hangs on the horizontal bar","He hung on the horizontal bar"]
+  },
+  {
+  "word": [" have [hæv] ", " had [hæd] ", " had [hæd] "],
+  "translate": "иметь",
+  "example": ["He has a table","He had a table"]
   }
 ]
