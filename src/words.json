@@ -293,18 +293,80 @@
     ]
   },
   {
-  "word": [" grow [grou] ", " grew [gru:] ", " grown [groun] "],
-  "translate": "расти",
-  "example": ["The tree grows last year","The tree grew last year"]
+    "word": [" grow [grou] ", " grew [gru:] ", " grown [groun] "],
+    "translate": "расти",
+    "example": ["The tree grows last year", "The tree grew last year"]
   },
   {
-  "word": [" hang [hæŋ] ", " hung [hʌŋ] ", " hung [hʌŋ] "],
-  "translate": " висеть, вешать ",
-  "example": ["He hangs on the horizontal bar","He hung on the horizontal bar"]
+    "word": [" hang [hæŋ] ", " hung [hʌŋ] ", " hung [hʌŋ] "],
+    "translate": " висеть, вешать ",
+    "example": [
+      "He hangs on the horizontal bar",
+      "He hung on the horizontal bar"
+    ]
   },
   {
-  "word": [" have [hæv] ", " had [hæd] ", " had [hæd] "],
-  "translate": "иметь",
-  "example": ["He has a table","He had a table"]
+    "word": [" have [hæv] ", " had [hæd] ", " had [hæd] "],
+    "translate": "иметь",
+    "example": ["He has a table", "He had a table"]
+  },
+  {
+    "word": [" hear [hiə] ", " heard [hɜːd] ", " heard [hɜːd] "],
+    "translate": "слышать",
+    "example": [
+      "I hear to funny songs every day",
+      "I think I heard a strange sound outside the door one minute ago."
+    ]
+  },
+  {
+    "word": [" hide [haid] ", " hid [hid] ", " hidden [hidn] "],
+    "translate": "прятаться",
+    "example": ["She hides in the basement", "He hid in the basement"]
+  },
+  {
+    "word": [" hit [hid] ", " hit [hid] ", " hit [hid] "],
+    "translate": " бить, поражать ",
+    "example": ["He hits by a bullet", "He hit by a bullet"]
+  },
+  {
+    "word": [" hold [hould] ", " held [held] ", " held [held] "],
+    "translate": " держать (в руках), удерживать ",
+    "example": [
+      "She holds flowers in his hands",
+      "He held flowers in his hands"
+    ]
+  },
+  {
+    "word": [" hurt [hɜːt] ", " hurt [hɜːt] ", " hurt [hɜːt] "],
+    "translate": " причинять боль, ранить ",
+    "example": ["It really hurt.", "He hurt a dog last week."]
+  },
+  {
+    "word": [" keep [ki:p] ", " kept [kept] ", " kept [kept] "],
+    "translate": " держать, хранить ",
+    "example": ["He keeps the key", "He kept the key"]
+  },
+  {
+    "word": [" kneel [ni:l] ", " knelt [nelt] ", " knelt [nelt] "],
+    "translate": " преклонять, стоять на коленях ",
+    "example": ["He kneels down and prayed", "They knelt down and prayed"]
+  },
+  {
+    "word": [" know [nou] ", " knew [nju:] ", " known [noun] "],
+    "translate": " знать, уметь ",
+    "example": ["He knows it", "I knew it"]
+  },
+  {
+    "word": [" lay [lei] ", " laid [laid] ", " laid [laid] "],
+    "translate": " класть, положить ",
+    "example": [
+      "She lays the baby in his crib - Она кладет ребенка в кроватку",
+      "She laid the baby in his crib - Она положила ребенка на кровать"
+    ]
+  },
+  {
+    "word": [" lead [li:d] ", " led [leid] ", " led [leid] "],
+    "translate": " возглавлять, вести ",
+    "example": ["He leads everyone", "He led everyone"]
   }
 ]
