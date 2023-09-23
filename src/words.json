@@ -368,5 +368,68 @@
     "word": [" lead [li:d] ", " led [leid] ", " led [leid] "],
     "translate": " возглавлять, вести ",
     "example": ["He leads everyone", "He led everyone"]
+  },
+  {
+    "word": [" learn [lɜːn] ", " learnt [lɜːnt] ", " learnt [lɜːnt] "],
+    "translate": " учиться (самому), узнавать, учить ",
+    "example": ["He learns at school", "He learnt at school"]
+  },
+  {
+    "word": [" leave [li:v] ", " left [left] ", " left [left] "],
+    "translate": " уходить, покидать, переезжать, оставлять ",
+    "example": ["She leaves school", "She left school"]
+  },
+  {
+    "word": [" lend [lend] ", " lent [lent] ", " lent [lent] "],
+    "translate": "давать в долг",
+    "example": ["He lends at the institute", "I lent at the institute"]
+  },
+  {
+    "word": [" let [let] ", " let [let] ", " let [let] "],
+    "translate": " позволять, разрешать ",
+    "example": ["He lets you take my pen", "I let you take my pen"]
+  },
+  {
+    "word": [" lie [lai] ", " lay [lei] ", " lain [lain] "],
+    "translate": "лежать",
+    "example": ["Flamingo lies only one egg", "Flamingos lay only one egg"]
+  },
+  {
+    "word": ["light", "lit", "lit"],
+    "translate": "зажигать",
+    "example": ["The star light up in the sky", "The stars lit up in the sky"]
+  },
+  {
+    "word": [" lose [lu:z] ", " lost [lost] ", " lost [lost] "],
+    "translate": " терять, лишаться ",
+    "example": ["He loses the note", "He lost the note"]
+  },
+  {
+    "word": [" make [meik] ", " made [meid] ", " made [meid] "],
+    "translate": " делать, творить ",
+    "example": ["She makes a box", "He made a box"]
+  },
+  {
+    "word": [" mean [mi:n] ", " meant [ment] ", " meant [ment] "],
+    "translate": " иметь в виду, означать ",
+    "example": ["It means horse", "It meant horse"]
+  },
+  {
+    "word": [" meet [mi:t] ", " met [met] ", " met [met] "],
+    "translate": "встречать",
+    "example": [
+      "He meets his friend for dinner",
+      "He met his friend at a restaurant"
+    ]
+  },
+  {
+    "word": ["overcome", "overcame", "overcome"],
+    "translate": "преодолевать",
+    "example": ["He overcomes difficulties", "He overcame difficulties"]
+  },
+  {
+    "word": [" pay [pei] ", " paid [peid] ", " paid [peid] "],
+    "translate": "платить",
+    "example": ["She pays in the store", "She paid at the store"]
   }
 ]
